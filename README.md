@@ -22,6 +22,12 @@ An extension for MIT App Inventor 2.
 # <kbd>🧩 RulerView</kbd>
 This is a custom Ruler View component developed by TechHamara using Fast. It allows users to interactively scroll and select a value on a ruler scale.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+## Demo
+
+![blocks](https://github.com/user-attachments/assets/14665870-d02c-485f-b38e-bb7503069257)
+
+----
+
 ![ScaleChangeEnded_Event](https://github.com/user-attachments/assets/2c10e9bd-84c7-47bb-8ad6-a7c6d8557b4d)
 ![ScaleChanged_Event](https://github.com/user-attachments/assets/75eb28a9-38ac-49f4-bb0e-e3444933cd1c)
 
