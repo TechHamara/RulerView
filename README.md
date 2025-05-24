@@ -12,6 +12,7 @@ An extension for MIT App Inventor 2.
 📅 **Updated On:** [date=2025-05-24 timezone="Asia/Calcutta"]
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
 * **
+**Lib** Used zjun615 https://github.com/zjun615/RulerView
 
 ### 🤝 Multi-Components
 1. [RulerView](#kbd-rulerviewkbd-3)
