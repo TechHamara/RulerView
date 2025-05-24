@@ -22,6 +22,67 @@ An extension for MIT App Inventor 2.
 # <kbd>🧩 RulerView</kbd>
 This is a custom Ruler View component developed by TechHamara using Fast. It allows users to interactively scroll and select a value on a ruler scale.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 
+![ScaleChangeEnded_Event](https://github.com/user-attachments/assets/2c10e9bd-84c7-47bb-8ad6-a7c6d8557b4d)
+![ScaleChanged_Event](https://github.com/user-attachments/assets/75eb28a9-38ac-49f4-bb0e-e3444933cd1c)
+
+-----
+
+![Initialize_Method](https://github.com/user-attachments/assets/6fab5649-90e5-4525-8572-f4d85bfd136e)
+![GetCurrentScale_Method](https://github.com/user-attachments/assets/e6ffec84-38d3-4b4d-842f-ade77d17e6f7)
+
+-----
+
+![RulerHeight_Set_Property](https://github.com/user-attachments/assets/03ac2979-3597-4a6a-ab75-e4b10cfc2350)
+![RulerHeight_Get_Property](https://github.com/user-attachments/assets/5e690f83-55c7-4ac4-97b6-d60eaaa0c23f)
+![ResultNumberTextSize_Set_Property](https://github.com/user-attachments/assets/855b15e4-724f-431d-9890-a67006b4d8b2)
+![ResultNumberTextSize_Get_Property](https://github.com/user-attachments/assets/b04296e5-aecc-473e-9f25-49fee732f946)
+![ResultNumberColor_Set_Property](https://github.com/user-attachments/assets/3412d204-1bd8-466c-a298-30384142271e)
+![ResultNumberColor_Get_Property](https://github.com/user-attachments/assets/0618fdca-18fc-4aae-998e-261816941084)
+![MinScale_Set_Property](https://github.com/user-attachments/assets/ca2fe246-6cce-4646-8a12-044cda814988)
+![MinScale_Get_Property](https://github.com/user-attachments/assets/08f84cbe-742b-4a78-bd73-14f36738fe95)
+![MidScaleStroke_Set_Property](https://github.com/user-attachments/assets/fbf12728-308e-4af0-8679-d105c29bb923)
+![MidScaleStroke_Get_Property](https://github.com/user-attachments/assets/ed71afba-d1ec-43a0-a3d3-6ba8701ff7b0)
+![MidScaleColor_Set_Property](https://github.com/user-attachments/assets/b3fc3c81-b880-45c1-af1f-ab08d35a27ce)
+![MidScaleColor_Get_Property](https://github.com/user-attachments/assets/14d95b53-028f-453d-8f7e-680ab9b6e1dc)
+![MaxScale_Set_Property](https://github.com/user-attachments/assets/0370033f-2c67-458e-ba08-c477b9db1cdb)
+![MaxScale_Get_Property](https://github.com/user-attachments/assets/357ca860-90e9-4a48-9ee9-160f4544d155)
+![LargeScaleStroke_Set_Property](https://github.com/user-attachments/assets/b8e8b3ba-2cc1-49ba-bccc-78828ae3be42)
+![LargeScaleStroke_Get_Property](https://github.com/user-attachments/assets/5853a431-c229-4203-b912-b630b6af64b9)
+![LargeScaleColor_Set_Property](https://github.com/user-attachments/assets/18ee5527-22f4-4cf6-965c-f56db26a60a1)
+![LargeScaleColor_Get_Property](https://github.com/user-attachments/assets/68358232-5119-48d9-86ca-1630143e3ea9)
+![FirstScale_Set_Property](https://github.com/user-attachments/assets/e6c789bf-29f6-4922-ae8c-35ac7427d457)
+![FirstScale_Get_Property](https://github.com/user-attachments/assets/ab4f92a6-d3d6-4191-86fa-c8223534acfb)
+![BackgroundRoundRect_Set_Property](https://github.com/user-attachments/assets/e27ba030-4df7-40f9-9745-9d6c08fd5ff4)
+![BackgroundRoundRect_Get_Property](https://github.com/user-attachments/assets/df323d5d-008a-4097-b7ce-8b65b0a57ff2)
+![BackgroundColor_Set_Property](https://github.com/user-attachments/assets/7cf6fc49-7476-44c0-a54b-57c1d60d5ed9)
+![BackgroundColor_Get_Property](https://github.com/user-attachments/assets/5a932140-53de-4aa2-a404-36a9cce53dac)
+![UnitTextSize_Set_Property](https://github.com/user-attachments/assets/01b61371-fc12-4ed1-a0e1-e54f036a2f03)
+![UnitTextSize_Get_Property](https://github.com/user-attachments/assets/63bd2aa4-25ab-4ab1-be26-d7de3c94c200)
+![UnitColor_Set_Property](https://github.com/user-attachments/assets/39050f2e-d105-4370-b0b7-cc4d981ac74e)
+![UnitColor_Get_Property](https://github.com/user-attachments/assets/a6bfd5d1-4a21-4f80-8fca-165dc930564b)
+![Unit_Set_Property](https://github.com/user-attachments/assets/eaacd248-6519-45d5-946c-6d20f21b6178)
+![Unit_Get_Property](https://github.com/user-attachments/assets/6365cd5d-34e3-4419-a3ec-20e5736e2e12)
+![SmallScaleStroke_Set_Property](https://github.com/user-attachments/assets/8eb2941a-4b8e-4c95-9a02-66a98a0f7b87)
+![SmallScaleStroke_Get_Property](https://github.com/user-attachments/assets/1e97e22f-981c-4e0a-a0fe-06d7af1b9cac)
+![SmallScaleColor_Set_Property](https://github.com/user-attachments/assets/3d798e88-7607-45b3-ad92-b3eca40ebeaa)
+![SmallScaleColor_Get_Property](https://github.com/user-attachments/assets/9ca1ca73-ac22-4f73-afc2-c966a134a6b5)
+![ShowScaleResult_Set_Property](https://github.com/user-attachments/assets/5c31a086-c61f-4277-940d-1040a6119e94)
+![ShowScaleResult_Get_Property](https://github.com/user-attachments/assets/23b55d21-2ab7-4aaf-89b6-a83bf6743fce)
+![ScrollToScale_Set_Property](https://github.com/user-attachments/assets/8db19893-908e-42d3-96ae-e52b76ab71c0)
+![ScaleNumberTextSize_Set_Property](https://github.com/user-attachments/assets/9f1e6016-4608-4edd-b44d-19824391b727)
+![ScaleNumberTextSize_Get_Property](https://github.com/user-attachments/assets/4b489c42-98ba-4d03-93ec-72ab4992f846)
+![ScaleNumberColor_Set_Property](https://github.com/user-attachments/assets/f2f72f57-32f2-4104-9e29-2bc77263de99)
+![ScaleNumberColor_Get_Property](https://github.com/user-attachments/assets/c65df126-8c88-4610-9d3f-aeba61de36a2)
+![ScaleLimit_Set_Property](https://github.com/user-attachments/assets/8421e23b-20b8-476c-aa39-7e40fce2baab)
+![ScaleLimit_Get_Property](https://github.com/user-attachments/assets/04377d22-43ec-48e5-92d5-edfee8309789)
+![ScaleGap_Set_Property](https://github.com/user-attachments/assets/6172a42b-6805-4796-821e-adc5bf2d13b4)
+![ScaleGap_Get_Property](https://github.com/user-attachments/assets/474a1049-5643-42b5-991c-0cdb89f314e9)
+![ScaleCount_Set_Property](https://github.com/user-attachments/assets/40799bd6-1bcd-4e00-92e1-d095a9af8216)
+![ScaleCount_Get_Property](https://github.com/user-attachments/assets/a1b3c2dd-8a1a-4df2-b1de-3b3f338211cf)
+![RulerToResultGap_Set_Property](https://github.com/user-attachments/assets/f5bb965c-11b0-4d75-9a5d-2fa69ae81fa3)
+![RulerToResultGap_Get_Property](https://github.com/user-attachments/assets/bde95a9f-33ad-44a6-bca2-265bce7e2d50)
+
+
 ## <kbd>Events:</kbd>
 **RulerView** has total 2 events.
 
