@@ -27,11 +27,11 @@ This is a custom Ruler View component developed by TechHamara using Fast. It all
 
 ![blocks](https://github.com/user-attachments/assets/14665870-d02c-485f-b38e-bb7503069257)
 
+![cf72ef2c-714a-401c-909f-0ab82c5869c4.gif](https://github.com/user-attachments/assets/f24dc3fa-a32c-4fce-a2b8-6b3a2d194049)
+
 ![41814bcf-76b6-4110-b1d8-b7e8cb802e3d.gif](https://github.com/user-attachments/assets/8bab9364-c587-4626-bb03-0733ec52a552)
 
 ![12b81ebd-ffe3-4e03-8aef-3007419691aa.gif](https://github.com/user-attachments/assets/b73e9c50-1e93-4c41-93fd-7afca5ea7e40)
-
-![cf72ef2c-714a-401c-909f-0ab82c5869c4.gif](https://github.com/user-attachments/assets/f24dc3fa-a32c-4fce-a2b8-6b3a2d194049)
 
 ![820e48b6-e0b0-4249-af1c-3176dcd6639b.gif](https://github.com/user-attachments/assets/a005744b-6282-4cba-9eb7-fc5b026e6862)
 
