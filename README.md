@@ -5,14 +5,14 @@ An extension for MIT App Inventor 2.
 
 ## 📝 Specifications
 * **
-📦 **Package:** io.th.rulerview
-💾 **Size:** 66.96 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-05-24 timezone="Asia/Calcutta"]
+📦 **Package:** io.th.rulerview<br>
+💾 **Size:** 66.96 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-05-24 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
-* **
-**Lib** Used zjun615 https://github.com/zjun615/RulerView
+<br>
+📚 **Library** Used [zjun615](https://github.com/zjun615/RulerView)<br>
 
 ### 🤝 Multi-Components
 1. [RulerView](#kbd-rulerviewkbd-3)
